@@ -1,0 +1,20 @@
+C:\Users\chenyanheng\Desktop\ALL\C#\寻路\bin\Debug\寻路.exe.config
+C:\Users\chenyanheng\Desktop\ALL\C#\寻路\bin\Debug\寻路.exe
+C:\Users\chenyanheng\Desktop\ALL\C#\寻路\bin\Debug\寻路.pdb
+C:\Users\chenyanheng\Desktop\ALL\C#\寻路\obj\Debug\寻路.csproj.AssemblyReference.cache
+C:\Users\chenyanheng\Desktop\ALL\C#\寻路\obj\Debug\寻路.Form1.resources
+C:\Users\chenyanheng\Desktop\ALL\C#\寻路\obj\Debug\寻路.Properties.Resources.resources
+C:\Users\chenyanheng\Desktop\ALL\C#\寻路\obj\Debug\寻路.csproj.GenerateResource.cache
+C:\Users\chenyanheng\Desktop\ALL\C#\寻路\obj\Debug\寻路.csproj.CoreCompileInputs.cache
+C:\Users\chenyanheng\Desktop\ALL\C#\寻路\obj\Debug\寻路.exe
+C:\Users\chenyanheng\Desktop\ALL\C#\寻路\obj\Debug\寻路.pdb
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\寻路\bin\Debug\寻路.exe.config
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\寻路\bin\Debug\寻路.exe
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\寻路\bin\Debug\寻路.pdb
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\寻路\obj\Debug\寻路.csproj.AssemblyReference.cache
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\寻路\obj\Debug\寻路.Form1.resources
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\寻路\obj\Debug\寻路.Properties.Resources.resources
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\寻路\obj\Debug\寻路.csproj.GenerateResource.cache
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\寻路\obj\Debug\寻路.csproj.CoreCompileInputs.cache
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\寻路\obj\Debug\寻路.exe
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\寻路\obj\Debug\寻路.pdb

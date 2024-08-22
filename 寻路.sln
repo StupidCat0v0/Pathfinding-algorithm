@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "寻路", "寻路.csproj", "{FCD54747-E91A-4196-AF31-0E265572C11A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD54747-E91A-4196-AF31-0E265572C11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD54747-E91A-4196-AF31-0E265572C11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD54747-E91A-4196-AF31-0E265572C11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD54747-E91A-4196-AF31-0E265572C11A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5AC86C3-0D97-4EDD-AF1F-B7EC5FF51152}
+	EndGlobalSection
+EndGlobal
